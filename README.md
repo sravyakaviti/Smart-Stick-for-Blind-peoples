@@ -15,7 +15,7 @@ Ultrasonic sensor is used for detecting the obstacles and the blind person can b
 Ultrasonic sensor sends high frequency pulses,these pulses reflects from object and takes as Echo,time between echo and trig is measured by Arduino.
 
 ## Circuit Diagram
-![All ok!](Schematic/i1.PNG)
+![circuit diagram!](https://github.com/sravyakaviti/Smart-Stick-for-Blind-peoples/blob/abe9c4b95ca96ece647e4469f634b8a7740ae1ed/Schematic/img1.jpg)
 
 ## Principle of Ultrasonic Sensor
-![Zone 1](Schematic/i2.PNG)
+![working!](https://github.com/sravyakaviti/Smart-Stick-for-Blind-peoples/blob/abe9c4b95ca96ece647e4469f634b8a7740ae1ed/Schematic/img2.png)
