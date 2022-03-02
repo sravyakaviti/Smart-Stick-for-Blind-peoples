@@ -1,5 +1,5 @@
 # Smart-Stick-for-Blind-people
-The smart blind stick automatically detects the obstacle in front of the person and give him a response to the person by vibrating the stick and also with a warning sound.
+The smart blind stick automatically detects the obstacle in front of the person and gives the response to the person by vibrating the stick and also with a warning sound.
 
 ## Hardware Components
 * Arduino NANO.<br>
